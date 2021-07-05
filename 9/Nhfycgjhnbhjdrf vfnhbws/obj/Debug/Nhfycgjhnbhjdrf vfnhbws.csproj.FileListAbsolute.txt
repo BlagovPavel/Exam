@@ -1,0 +1,7 @@
+C:\Users\blago\source\repos\Nhfycgjhnbhjdrf vfnhbws\Nhfycgjhnbhjdrf vfnhbws\bin\Debug\Nhfycgjhnbhjdrf vfnhbws.exe.config
+C:\Users\blago\source\repos\Nhfycgjhnbhjdrf vfnhbws\Nhfycgjhnbhjdrf vfnhbws\bin\Debug\Nhfycgjhnbhjdrf vfnhbws.exe
+C:\Users\blago\source\repos\Nhfycgjhnbhjdrf vfnhbws\Nhfycgjhnbhjdrf vfnhbws\bin\Debug\Nhfycgjhnbhjdrf vfnhbws.pdb
+C:\Users\blago\source\repos\Nhfycgjhnbhjdrf vfnhbws\Nhfycgjhnbhjdrf vfnhbws\obj\Debug\Nhfycgjhnbhjdrf vfnhbws.csprojAssemblyReference.cache
+C:\Users\blago\source\repos\Nhfycgjhnbhjdrf vfnhbws\Nhfycgjhnbhjdrf vfnhbws\obj\Debug\Nhfycgjhnbhjdrf vfnhbws.csproj.CoreCompileInputs.cache
+C:\Users\blago\source\repos\Nhfycgjhnbhjdrf vfnhbws\Nhfycgjhnbhjdrf vfnhbws\obj\Debug\Nhfycgjhnbhjdrf vfnhbws.exe
+C:\Users\blago\source\repos\Nhfycgjhnbhjdrf vfnhbws\Nhfycgjhnbhjdrf vfnhbws\obj\Debug\Nhfycgjhnbhjdrf vfnhbws.pdb

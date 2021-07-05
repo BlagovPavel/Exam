@@ -1,0 +1,7 @@
+C:\Users\blago\source\repos\Массивыы\Массивыы\bin\Debug\Массивыы.exe.config
+C:\Users\blago\source\repos\Массивыы\Массивыы\bin\Debug\Массивыы.exe
+C:\Users\blago\source\repos\Массивыы\Массивыы\bin\Debug\Массивыы.pdb
+C:\Users\blago\source\repos\Массивыы\Массивыы\obj\Debug\Массивыы.csprojAssemblyReference.cache
+C:\Users\blago\source\repos\Массивыы\Массивыы\obj\Debug\Массивыы.csproj.CoreCompileInputs.cache
+C:\Users\blago\source\repos\Массивыы\Массивыы\obj\Debug\Массивыы.exe
+C:\Users\blago\source\repos\Массивыы\Массивыы\obj\Debug\Массивыы.pdb

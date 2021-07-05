@@ -1,0 +1,7 @@
+C:\Users\blago\source\repos\Треугольники\Треугольники\bin\Debug\Треугольники.exe.config
+C:\Users\blago\source\repos\Треугольники\Треугольники\bin\Debug\Треугольники.exe
+C:\Users\blago\source\repos\Треугольники\Треугольники\bin\Debug\Треугольники.pdb
+C:\Users\blago\source\repos\Треугольники\Треугольники\obj\Debug\Треугольники.csprojAssemblyReference.cache
+C:\Users\blago\source\repos\Треугольники\Треугольники\obj\Debug\Треугольники.csproj.CoreCompileInputs.cache
+C:\Users\blago\source\repos\Треугольники\Треугольники\obj\Debug\Треугольники.exe
+C:\Users\blago\source\repos\Треугольники\Треугольники\obj\Debug\Треугольники.pdb

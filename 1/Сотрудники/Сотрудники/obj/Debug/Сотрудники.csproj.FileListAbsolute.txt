@@ -1,0 +1,68 @@
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\bin\Debug\Сотрудники.exe.config
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\bin\Debug\Сотрудники.exe
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\bin\Debug\Сотрудники.pdb
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\bin\Debug\EntityFramework.dll
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\bin\Debug\EntityFramework.xml
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\obj\Debug\Сотрудники.csprojAssemblyReference.cache
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\obj\Debug\Сотрудники.Form1.resources
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\obj\Debug\Сотрудники.Properties.Resources.resources
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\obj\Debug\Сотрудники.csproj.GenerateResource.cache
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\obj\Debug\Сотрудники.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\obj\Debug\Сотрудники.csproj.CopyComplete
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\obj\Debug\Сотрудники.exe
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\obj\Debug\Сотрудники.pdb
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Сотрудники\Сотрудники\obj\Debug\Сотрудники.Form2.resources
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\bin\Debug\Сотрудники.exe.config
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\bin\Debug\Сотрудники.exe
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\bin\Debug\Сотрудники.pdb
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\bin\Debug\EntityFramework.dll
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\bin\Debug\EntityFramework.xml
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\obj\Debug\Сотрудники.csprojAssemblyReference.cache
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\obj\Debug\Сотрудники.Form1.resources
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\obj\Debug\Сотрудники.Form2.resources
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\obj\Debug\Сотрудники.Properties.Resources.resources
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\obj\Debug\Сотрудники.csproj.GenerateResource.cache
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\obj\Debug\Сотрудники.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\obj\Debug\Сотрудники.csproj.CopyComplete
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\obj\Debug\Сотрудники.exe
+C:\Users\Vadim\YandexDisk\Учеба\Курсовая работа\Базы\Сотрудники\Сотрудники\obj\Debug\Сотрудники.pdb
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\bin\Debug\Сотрудники.exe.config
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\bin\Debug\Сотрудники.exe
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\bin\Debug\Сотрудники.pdb
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\bin\Debug\EntityFramework.dll
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\bin\Debug\EntityFramework.xml
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\obj\Debug\Сотрудники.csprojAssemblyReference.cache
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\obj\Debug\Сотрудники.Form1.resources
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\obj\Debug\Сотрудники.Form2.resources
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\obj\Debug\Сотрудники.Properties.Resources.resources
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\obj\Debug\Сотрудники.csproj.GenerateResource.cache
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\obj\Debug\Сотрудники.csproj.CoreCompileInputs.cache
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\obj\Debug\Сотрудники.csproj.CopyComplete
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\obj\Debug\Сотрудники.exe
+C:\Users\Bertran\Desktop\Сотрудники\Сотрудники\obj\Debug\Сотрудники.pdb
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\bin\Debug\Сотрудники.exe.config
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\bin\Debug\Сотрудники.exe
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\bin\Debug\Сотрудники.pdb
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\bin\Debug\EntityFramework.dll
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\bin\Debug\EntityFramework.xml
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\obj\Debug\Сотрудники.csprojAssemblyReference.cache
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\obj\Debug\Сотрудники.Form1.resources
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\obj\Debug\Сотрудники.Form2.resources
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\obj\Debug\Сотрудники.Properties.Resources.resources
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\obj\Debug\Сотрудники.csproj.GenerateResource.cache
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\obj\Debug\Сотрудники.csproj.CoreCompileInputs.cache
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\obj\Debug\Сотрудники.csproj.CopyComplete
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\obj\Debug\Сотрудники.exe
+C:\Users\blago\OneDrive\Рабочий стол\1\Сотрудники\Сотрудники\obj\Debug\Сотрудники.pdb
